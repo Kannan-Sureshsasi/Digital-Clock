@@ -10,7 +10,7 @@
 Contributions to this project are welcome! If you find any issues or have ideas to enhance the clock's functionality, feel free to open an issue or submit a pull request.
 
 👤 About the Author:
-This project was created and is maintained by Kannan S. Connect with me on LinkedIn and let's stay in touch! 📧🤝
+This project was created and is maintained by Kannan S. Connect with me on ![LinkedIn](https://www.linkedin.com/in/kannan-suresh) and let's stay in touch! 📧🤝
 
 Thank you for visiting this repository. We hope you find this digital clock application useful and an excellent addition to your ASP.NET projects. If you have any questions or feedback, please don't hesitate to reach out. Happy timekeeping!
 
