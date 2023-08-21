@@ -14,4 +14,4 @@ This project was created and is maintained by Kannan S. Connect with me on Linke
 
 Thank you for visiting this repository. We hope you find this digital clock application useful and an excellent addition to your ASP.NET projects. If you have any questions or feedback, please don't hesitate to reach out. Happy timekeeping!
 
-![Digital_Clock Template](https://github.com/Kannan-Sureshsasi/Digital-Clock/assets/138990724/38e471c1-55f4-4c2f-a975-e119bab109b2)
+![Digital_Clock Template](https://github.com/Kannan-Sureshsasi/Digital-Clock/assets/138990724/e0925838-3b8d-4d0f-b4ca-4ae40b623948)
